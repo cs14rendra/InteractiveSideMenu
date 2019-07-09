@@ -19,7 +19,7 @@
 import Foundation
 
 /**
- Basic spring params.
+ Basic spring params.:::
  */
 public struct SpringParams {
 
